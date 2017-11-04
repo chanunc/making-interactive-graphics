@@ -3,6 +3,16 @@ An original tutorial for [Journocoders London](https://www.meetup.com/Journocode
 
 🚶 David Blood/[@davidcblood](https://twitter.com/davidcblood)/[first] dot [last] at ft.com
 
+## Table of Contents
+- [Introduction] (#introduciton)
+   - [Why React?] (#why-react)
+   - [Before you start] (#before-you-start)
+- [Up and running] (#up-and-running)
+- [The App component] (#the-app-component)
+- [The Chart Component] (#the-chart-component)
+- [Add axes] (#add-axes)
+- [D3 Transitions in React] (#d3-transitions-in-react)
+
 ## Introduction
 
 Thanks for joining us at this month's Journocoders. We're going to build an interactive data visualisation using two of the world's most popular [JavaScript libraries](https://en.wikipedia.org/wiki/JavaScript_library):
